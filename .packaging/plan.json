@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "olh/tokenskin",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "ca52d3d9c16ef8c480e8643bcbf6c1ad63ae286f"
+}
